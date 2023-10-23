@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dwicaturc
 - 👀 I’m interested in data science and web development
-- 🌱 I’m currently learning Python, HTML, CSS, and Javascript
-- 💞️ I’m looking to collaborate on machine learning
+- 🌱 I’m currently learning excel, HTML, CSS, SQL, Tableau, and R
+- 💞️ I’m looking to collaborate on data analysis
 - 📫 How to reach me : @dwicaturc@gmail.com
 
 <!---
